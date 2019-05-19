@@ -36,4 +36,4 @@ it changes red and returns to teal once the recording stops. If none of the
 three modes are enabled, the LED will be unlit.
 
 ## License
-See [LICENSE](./LICENSE.md).
+See [LICENSE](./LICENSE).
