@@ -4,7 +4,7 @@ and Tascam's Portastudio series.
 
 Each track runs independently which means that the tracks are (intentionally)
 not synced. Once recording stops, a track is played immediately. Every track is
-recorded onto the devices as a WAV file so it can be exported afterward.
+recorded onto the device as a WAV file so it can be exported afterward.
 
 ![Picostudio](https://d3r69eeiwn2k86.cloudfront.net/items/0V251N3Z0V3h3q1P2C22/picostudio.png?v=da271bf2)
 
@@ -17,10 +17,10 @@ recorded onto the devices as a WAV file so it can be exported afterward.
 - T2: select track 2.
 - T3: select track 3.
 - T4: select track 4.
-- Knob 1: set start position for the selected track.
-- Knob 2: set end position for the selected track.
-- Knob 3: set speed for the selected track.
-- Knob 4: set volume for the selected track.
+- Knob 1: set the start position for the selected track.
+- Knob 2: set the end position for the selected track.
+- Knob 3: set the speed for the selected track.
+- Knob 4: set the volume for the selected track.
 - B: enable bounce mode which bounces track 1, track 2, and track 3 to track 4
   once recording starts.
 - T: enable tape mode which adds a bit of wobble to the output.
