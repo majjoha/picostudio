@@ -8,6 +8,8 @@ recorded onto the device as a WAV file so it can be exported afterward.
 
 ![Picostudio](https://d3r69eeiwn2k86.cloudfront.net/items/0V251N3Z0V3h3q1P2C22/picostudio.png?v=da271bf2)
 
+Download the patch on [Patchstorage](https://patchstorage.com/picostudio/).
+
 ## Requirements
 - Critter and Guitari Organelle
 
