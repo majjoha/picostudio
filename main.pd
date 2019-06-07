@@ -1,6 +1,6 @@
 #N canvas 0 51 1822 1367 10;
 #X obj 13 1225 s \$0-selected-track;
-#N canvas 507 175 1692 832 knobs 0;
+#N canvas 507 175 1692 832 knobs 1;
 #X obj 45 15 r knob1;
 #X floatatom 45 37 5 0 0 0 - - -;
 #X obj 45 96 pack f f f f;
@@ -101,7 +101,7 @@
 #X connect 42 0 43 0;
 #X connect 43 0 40 0;
 #X connect 44 0 45 0;
-#X connect 45 0 43 0;
+#X connect 44 0 32 0;
 #X restore 65 1160 pd knobs;
 #X obj 100 354 r \$0-selected-track;
 #X obj 145 377 r \$0-knobs;
@@ -771,7 +771,7 @@
 #X restore 13 1160 pd gui;
 #X floatatom 252 27 5 0 0 0 - - -;
 #X obj 252 46 s \$0-recording-time;
-#N canvas 0 51 1819 665 recorder 0;
+#N canvas 0 51 1819 665 recorder 1;
 #X obj 138 7 r \$0-recording;
 #X obj 138 29 metro 100;
 #X msg 138 51 bang;
