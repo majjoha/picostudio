@@ -771,7 +771,7 @@
 #X restore 13 1160 pd gui;
 #X floatatom 252 27 5 0 0 0 - - -;
 #X obj 252 46 s \$0-recording-time;
-#N canvas 0 51 1819 665 recorder 1;
+#N canvas 0 51 1819 665 recorder 0;
 #X obj 138 7 r \$0-recording;
 #X obj 138 29 metro 100;
 #X msg 138 51 bang;
@@ -823,6 +823,7 @@
 #X obj 723 309 *~;
 #X obj 813 309 *~;
 #X obj 723 365 r \$0-mute-input;
+#X obj 310 7 r fs;
 #X connect 0 0 1 0;
 #X connect 0 0 6 0;
 #X connect 1 0 2 0;
@@ -878,6 +879,7 @@
 #X connect 46 0 21 0;
 #X connect 47 0 39 1;
 #X connect 47 0 38 1;
+#X connect 48 0 9 0;
 #X restore 327 10 pd recorder;
 #X obj 122 331 r \$0-recording;
 #X obj 11 490 s \$0-playing;
