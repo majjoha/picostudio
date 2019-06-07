@@ -6,7 +6,7 @@ Each track runs independently which means that the tracks are (intentionally)
 not synced. Once recording stops, a track is played immediately. Every track is
 recorded onto the device as a WAV file so it can be exported afterward.
 
-![Picostudio](https://d3r69eeiwn2k86.cloudfront.net/items/0V251N3Z0V3h3q1P2C22/picostudio.png?v=da271bf2)
+![Picostudio](https://raw.githubusercontent.com/majjoha/picostudio/master/picostudio.png)
 
 Download the patch on [Patchstorage](https://patchstorage.com/picostudio/).
 
@@ -26,6 +26,7 @@ Download the patch on [Patchstorage](https://patchstorage.com/picostudio/).
 - B: enable bounce mode which bounces track 1, track 2, and track 3 to track 4
   once recording starts.
 - T: enable tape mode which adds a bit of wobble to the output.
+- M: mute the input.
 
 ## LED
 - Red means recording.
