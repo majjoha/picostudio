@@ -6,7 +6,7 @@ Each track runs independently which means that the tracks are (intentionally)
 not synced. Once recording stops, a track is played immediately. Every track is
 recorded onto the device as a WAV file so it can be exported afterward.
 
-![Picostudio](https://raw.githubusercontent.com/majjoha/picostudio/master/picostudio.png)
+![Picostudio](https://raw.githubusercontent.com/majjoha/picostudio/main/picostudio.png)
 
 Download the patch on [Patchstorage](https://patchstorage.com/picostudio/).
 
